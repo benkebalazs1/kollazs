@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pitagorasz</title>
+    <script>
+        function szamol() {
+            eredemny.value = Math.sqrt(a_old * a_old.value + b_old.value * b_old.value)
+        }
+    </script>
+</head>
+    <h1>PITAGORASZ</h1>
+    <img src="oo-pv-1.svg" alt="">
+
+    <fieldset style="width: 0%;">
+    <legend>Pitagorasz átfogó értéke számoló program</legend>
+        <input type="number" name="oldal" id="a_old" placeholder="a_old"><br>
+        <input type="number" name="oldal" id="b_old" placeholder="b_old"><br>
+        <input type="eredeti" id="eredemny" placeholder="eredmény"><br>
+        <input type="button" name="oldal" onclick="szamol()" value="KISZÁMOL">
+    </fieldset> 
+</body>
+</html>
