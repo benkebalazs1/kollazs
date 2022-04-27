@@ -1,4 +1,4 @@
-pepe1125.github.io/9c_web/kosar.html
+
 
 van plakat01 = 2000
 van plakat02 = 1500
