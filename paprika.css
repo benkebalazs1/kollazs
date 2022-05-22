@@ -44,7 +44,7 @@ h1, h2 {
     margin-right: 10px;
     border-radius: 10px;
     background-color: #d5d06b;
-    border-style: 5px solid;
+    border: 5px solid yellow;
 }
 
 img {
