@@ -33,7 +33,7 @@ body {
 
 h1, h2 {
     margin-top: 0px;
-    background-color: rgb(4, 90, 4)!;
+    background-color: rgb(4, 90, 4);
 }
 
 .main {
@@ -44,8 +44,7 @@ h1, h2 {
     margin-right: 10px;
     border-radius: 10px;
     background-color: #d5d06b;
-    size: 5px;
-    border-style: solid;
+    border-style: 5px solid;
 }
 
 img {
